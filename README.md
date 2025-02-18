@@ -1,5 +1,5 @@
-# Sound Semiconductor Symbol Library
-===========================================
+Sound Semiconductor Symbol Library
+=======================================
 
 This repository includes KiCAD schematic symbols for the devices offered by Sound Semiconductor
 
